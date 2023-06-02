@@ -3,6 +3,8 @@ The website features the following:
 
 * Login screen 
 * Bottom Navigation is implemented
+* CardView
+* DropDown
 
 
 ## To Do

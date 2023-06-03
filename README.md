@@ -2,9 +2,12 @@
 The website features the following:
 
 * Login screen 
-* Bottom Navigation is implemented
+* Bottom Navigation 
 * CardView
 * DropDown
+* Drawer Navigation
+* Lists View
+* Horizontal List
 
 
 ## To Do
@@ -12,6 +15,4 @@ The website features the following:
 The following features are still to be implemented:
 
 * User registration and login
-* Drawer Navigation
-* Lists View
 * Grid View
